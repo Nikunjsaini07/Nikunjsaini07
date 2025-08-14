@@ -1,11 +1,11 @@
-<p align="center"> 
+ <p align="center"> 
   <img src="nightlife_banner.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
 ## Hello, I am Nikunj 
 I build AI-powered web apps, experiment with models, and break stuff on purpose to see how it works. Currently exploring ML, GenAI, and
 
-### Tech Stack
+## Tech Stack
 
 Languages: 
 <code>JS</code> <code>Python</code> <code>Java</code>
