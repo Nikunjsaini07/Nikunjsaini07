@@ -1,12 +1,10 @@
-```bash 
-sudo rm -rf / # run if you dare
-```
+
 <p align="center"> 
   <img src="nightlife_banner.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
-## Hello, Abhinav here
-I build ML-powered tools, break them often, and learn even more. Currently exploring GenAI, vector search, and how far curiosity (and deadlines) can take me.
+## Hello, I am Nikunj 
+I build AI-powered web apps, experiment with models, and break stuff on purpose to see how it works. Currently exploring ML, GenAI, and
 
 ### Tech Stack
 
