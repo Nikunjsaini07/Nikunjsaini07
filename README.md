@@ -1,4 +1,3 @@
-
 <p align="center"> 
   <img src="nightlife_banner.gif" alt="Lofi Nightlight scene" /> 
 </p>
