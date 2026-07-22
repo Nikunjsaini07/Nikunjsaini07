@@ -1,41 +1,49 @@
- <p align="center"> 
-  <img src="nightlife_banner.gif" alt="Lofi Nightlight scene" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nikunjsaini07&style=for-the-badge&color=0e75b6" /> </p>
+
+<h1 align="center">Hi 👋, I'm Nikunj Saini</h1>
+<h3 align="center">Backend Developer • Go • Javascript • Typescript </h3>
+
+<p align="center">
+I enjoy building scalable backend systems and exploring AI that solves real-world problems. My interests span backend engineering, distributed systems, machine learning, and designing software that's fast, reliable, and built to scale.
 </p>
 
-## Hello, I am Nikunj 
-I build AI-powered web apps, experiment with models, and break stuff on purpose to see how it works. Currently exploring ML, GenAI, and
-
-## Tech Stack
-
-Languages: 
-<code>JS</code> <code>Python</code> <code>Java</code>
-
-Frontend & Backend:
-<code>React</code>  <code>FastAPI</code> 
-
-Databases:
-<code>PostgreSQL</code> 
-
-ML/AI & Data:
-<code>TensorFlow</code> <code>PyTorch</code> <code>Scikit-learn</code> <code>NumPy</code> <code>Pandas</code> 
-
-Tools & Cloud:  <code>Matplotlib</code> <code>SeaBorn</code>  <code>Git</code>
+---
 
 
+### 👨‍💻 About Me
 
-<div align="center">
-  <div class="grid grid-cols-2 gap-4">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nikunjsaini07&show_icons=true&count_private=true&hide_border=false&title_color=0AFF9D&icon_color=22CC88&text_color=E6F6F4&bg_color=000000" alt="Nikunj's GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Nikunjsaini07&hide_border=false&background=000000&ring=E6F6F4&fire=E6F6F4&currStreakLabel=E6F6F4&sideLabels=E6F6F4&dates=E6F6F4&stroke=E6F6F4" alt="Nikunj's GitHub Streak" width="51%" />
+* 🚀 Backend developer passionate about building scalable, reliable, and production-ready systems
+* 🏗️ Interested in system design, distributed systems, API architecture, databases, and caching
+* 💻 Working with **Go, Node.js, Express.js, PostgreSQL, MongoDB, Next.js, and React**
+* 🤖 Exploring **Machine Learning** and AI-powered applications
+* 🌱 Continuously learning backend internals, cloud technologies, and software architecture
+* 🤝 Open to collaborating on backend, AI, and open-source projects
+* ⚡ I am actually a cinephile.
+---
+
+🛠️ Tech Stack
+Languages
+
+<p> <img src="https://skillicons.dev/icons?i=go,java,python,typescript,javascript"/> </p>
+
+Backend
+
+<p> <img src="https://skillicons.dev/icons?i=go,nodejs,express"/> </p>
+
+Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/> </p>
+
+Database
+
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/> </p>
+
+Dev Tools
+
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode"/> </p>
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=ABeeZee&preferLogin=false">    <img  alt="Nikunjsaini07's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Nikunjsaini07?cardType=level&theme=tokyonight&fontFamily=ABeeZee&preferLogin=false" />  </a>
 
 
-  </div>
-  <div class="grid grid-cols-2 gap-4 mt-4">
-
-  </div>
-</div>
-
-
-If you like my projects, Give them ⭐ and Share them!
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+Always learning, always building, and always improving.
+</p>
