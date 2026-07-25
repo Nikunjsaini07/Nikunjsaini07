@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nikunjsaini07&style=for-the-badge&color=0e75b6" /> </p>
+<h6 align="center"> <img src="https://komarev.com/ghpvc/?username=Nikunjsaini07&style=for-the-badge&color=0e75b6" /> </h6>
 
 <h1 align="center">Hi 👋, I'm Nikunj Saini</h1>
 <h3 align="center">Backend Developer • Go • Javascript • Typescript </h3>
