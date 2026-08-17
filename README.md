@@ -42,7 +42,7 @@ Dev Tools
 
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode"/> </p>
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=ABeeZee&preferLogin=false">    <img  alt="Nikunjsaini07's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Nikunjsaini07?cardType=level&theme=tokyonight&fontFamily=ABeeZee&preferLogin=false" />  </a>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nikunjsaini07&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark)
 
 
 Always learning, always building, and always improving.
