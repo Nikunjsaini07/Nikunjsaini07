@@ -42,7 +42,6 @@ Dev Tools
 
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode"/> </p>
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nikunjsaini07&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark)
 
 
 Always learning, always building, and always improving.
